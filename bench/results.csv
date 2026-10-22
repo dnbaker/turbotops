@@ -1,0 +1,75 @@
+case,engine,seconds,prep_s,peak_rss_mb,bars,parity
+full uniform n=5000 H1 l2,turbotops t1,6.292,0.0,458.4,5000 2633,ok
+full uniform n=5000 H1 l2,turbotops t16,5.373,0.0,458.4,5000 2633,ok
+full uniform n=5000 H1 l2,ripser-cli,18.309,0.0,655.7,5000 2633,ok
+full uniform n=5000 H1 l2,ripser-py,15.765,0.0,2269.2,5000 2633,ok
+full uniform n=5000 H1 l2,giotto-ph t1,17.935,0.0,1188.6,5000 2633,ok
+full uniform n=5000 H1 l2,giotto-ph t16,10.667,0.0,1263.6,5000 2633,ok
+full uniform n=10000 H1 l2,turbotops t1,31.211,0.0,1358.6,10000 5473,ok
+full uniform n=10000 H1 l2,turbotops t16,27.083,0.0,1358.5,10000 5473,ok
+full uniform n=10000 H1 l2,ripser-cli,97.032,0.0,2052.2,10000 5473,ok
+full uniform n=10000 H1 l2,ripser-py,74.987,0.0,7404.6,10000 5473,ok
+full uniform n=10000 H1 l2,giotto-ph t1,92.318,0.0,3703.1,10000 5473,ok
+full uniform n=10000 H1 l2,giotto-ph t16,55.048,0.0,3902.9,10000 5473,ok
+full torus n=1200 H2 l2,turbotops t1,46.835,0.0,392.7,1200 325 170,ok
+full torus n=1200 H2 l2,turbotops t16,10.512,0.0,387.7,1200 325 170,ok
+full torus n=1200 H2 l2,ripser-cli,53.617,0.0,517.6,1200 325 170,ok
+full torus n=1200 H2 l2,ripser-py,137.332,0.0,8372.9,1200 325 170,ok
+full torus n=1200 H2 l2,giotto-ph t1,48.398,0.0,640.9,1200 325 170,ok
+full torus n=1200 H2 l2,giotto-ph t16,10.913,0.0,640.2,1200 325 170,ok
+full uniform n=5000 H1 l1,turbotops t1,11.143,0.0,513.5,5000 3692,ok
+full uniform n=5000 H1 l1,turbotops t16,9.94,0.0,513.4,5000 3692,ok
+full uniform n=5000 H1 l1,ripser-py,23.058,0.0,2398.3,5000 3692,ok
+full uniform n=5000 H1 l1,giotto-ph t1,25.107,0.0,1280.2,5000 3692,ok
+full uniform n=5000 H1 l1,giotto-ph t16,14.459,0.0,1409.7,5000 3692,ok
+full uniform n=5000 H1 linf,turbotops t1,6.766,0.0,456.6,5000 4003,ok
+full uniform n=5000 H1 linf,turbotops t16,6.156,0.0,456.7,5000 4003,ok
+full uniform n=5000 H1 linf,ripser-py,12.833,0.0,1826.2,5000 4003,ok
+full uniform n=5000 H1 linf,giotto-ph t1,19.748,0.0,1043.4,5000 4003,ok
+full uniform n=5000 H1 linf,giotto-ph t16,12.771,0.0,1215.0,5000 4003,ok
+full uniform n=5000 H1 lp:3,turbotops t1,7.4,0.0,457.1,5000 2820,ok
+full uniform n=5000 H1 lp:3,turbotops t16,6.027,0.0,457.3,5000 2820,ok
+full uniform n=5000 H1 lp:3,giotto-ph t1,19.061,0.0,1105.2,5000 2820,ok
+full uniform n=5000 H1 lp:3,giotto-ph t16,12.803,0.0,1122.2,5000 2820,ok
+tau uniform n=10000 H1 l2 tau=0.164,turbotops t1,1.254,0.0,55.3,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,turbotops t16,0.832,0.0,58.6,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,ripser-cli,2.5,0.168,71.8,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,ripser-py,2.474,0.168,246.8,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,giotto-ph t1,3.31,0.168,363.5,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,giotto-ph t16,2.81,0.168,367.4,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,giotto-ph-collapse t16,8.174,0.168,358.1,10000 5473,ok
+tau uniform n=25000 H1 l2 tau=0.128,turbotops t1,5.846,0.0,164.6,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,turbotops t16,4.012,0.0,164.0,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,ripser-cli,9.491,0.492,254.5,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,ripser-py,7.745,0.492,654.0,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,giotto-ph t1,10.465,0.492,923.3,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,giotto-ph t16,7.997,0.492,878.7,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,giotto-ph-collapse t16,28.351,0.492,786.8,25000 13960,ok
+tau uniform n=50000 H1 l2 tau=0.105,turbotops t1,17.333,0.0,323.2,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,turbotops t16,12.06,0.0,356.1,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,ripser-cli,25.235,1.074,591.7,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,ripser-py,20.52,1.074,1332.6,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,giotto-ph t1,26.683,1.074,1926.8,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,giotto-ph t16,20.354,1.074,1949.6,50000 28507,MISMATCH
+tau uniform n=50000 H1 l2 tau=0.105,giotto-ph-collapse t16,71.367,1.074,1612.7,50000 28507,MISMATCH
+tau uniform n=10000 H2 l2 tau=0.12,turbotops t1,3.266,0.0,25.4,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,turbotops t16,1.079,0.0,28.2,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,ripser-cli,4.502,0.086,38.0,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,ripser-py,4.82,0.086,438.1,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,giotto-ph t1,5.124,0.086,224.1,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,giotto-ph t16,2.231,0.086,221.9,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,giotto-ph-collapse t16,3.139,0.086,234.1,10000 5473 1597,MISMATCH
+knn uniform n=100000 H1 l2 k=15,turbotops t1,14.476,0.0,84.6,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,turbotops t16,3.4,0.0,89.2,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,ripser-cli,6.339,1.147,92.1,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,ripser-py,5.406,1.147,278.2,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,giotto-ph t1,5.969,1.147,409.3,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,giotto-ph t16,4.673,1.147,412.9,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,giotto-ph-collapse t16,6.552,1.147,747.9,100000 57740,ok
+knn uniform n=100000 H2 l2 k=15,turbotops t1,16.755,0.0,85.3,100000 57740 5899,ok
+knn uniform n=100000 H2 l2 k=15,turbotops t16,3.805,0.0,90.8,100000 57740 5899,ok
+knn uniform n=100000 H2 l2 k=15,ripser-cli,10.176,1.148,94.8,100000 57740 5899,ok
+knn uniform n=100000 H2 l2 k=15,ripser-py,,,,,ERROR: python exit -6: libc++abi: terminating due to uncaught exception of type std::overflow_error: simplex index 36030876301887160 in filtration is larger than maximum index 36028797018963967 
+knn uniform n=100000 H2 l2 k=15,giotto-ph t1,9.125,1.148,409.9,100000 57740 5899,ok
+knn uniform n=100000 H2 l2 k=15,giotto-ph t16,5.061,1.148,413.0,100000 57739 5899,MISMATCH
+knn uniform n=100000 H2 l2 k=15,giotto-ph-collapse t16,6.711,1.148,747.8,100000 57740 5899,ok

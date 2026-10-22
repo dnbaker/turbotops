@@ -1,0 +1,13 @@
+case,engine,seconds,prep_s,peak_rss_mb,bars,parity
+tau uniform n=10000 H1 l2 tau=0.164,turbotops t1,1.079,0.0,46.4,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,turbotops t16,0.689,0.0,54.6,10000 5473,ok
+tau uniform n=25000 H1 l2 tau=0.128,turbotops t1,4.936,0.0,139.5,25000 13960,ok
+tau uniform n=25000 H1 l2 tau=0.128,turbotops t16,3.501,0.0,171.7,25000 13960,ok
+tau uniform n=50000 H1 l2 tau=0.105,turbotops t1,14.988,0.0,318.5,50000 28508,ok
+tau uniform n=50000 H1 l2 tau=0.105,turbotops t16,11.062,0.0,390.5,50000 28508,ok
+tau uniform n=10000 H2 l2 tau=0.12,turbotops t1,3.402,0.0,29.6,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,turbotops t16,1.099,0.0,29.6,10000 5473 1596,ok
+knn uniform n=100000 H1 l2 k=15,turbotops t1,2.975,0.0,84.1,100000 57740,ok
+knn uniform n=100000 H1 l2 k=15,turbotops t16,2.05,0.0,89.6,100000 57740,ok
+knn uniform n=100000 H2 l2 k=15,turbotops t1,4.875,0.0,84.7,100000 57740 5899,ok
+knn uniform n=100000 H2 l2 k=15,turbotops t16,2.407,0.0,90.8,100000 57740 5899,ok

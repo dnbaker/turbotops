@@ -1,0 +1,262 @@
+family,input,n,dim,maxdim,label,mean_degree,mode,rep,total_s,wall_s,peak_mb,edges,bars,h1_columns,h1_skipped,diagram_sha,auto_reason
+uniform,dense,2000,3,1,dense,1540.6,coboundary,0,0.692,0.753,105.0,1540647,3015,1015,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,coboundary,1,0.699,0.753,105.1,1540647,3015,1015,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,coboundary,2,0.764,0.87,105.1,1540647,3015,1015,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,boundary,0,0.134,0.185,43.2,1540647,3015,0,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,boundary,1,0.137,0.188,43.3,1540647,3015,0,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,boundary,2,0.145,0.197,43.4,1540647,3015,0,0,fd62224ba143,
+uniform,dense,2000,3,1,dense,1540.6,auto,0,0.134,0.185,43.1,1540647,3015,0,0,fd62224ba143,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,2000,3,1,dense,1540.6,auto,1,0.138,0.188,43.3,1540647,3015,0,0,fd62224ba143,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,2000,3,1,dense,1540.6,auto,2,0.13,0.182,43.2,1540647,3015,0,0,fd62224ba143,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,5000,3,1,dense,3799.0,coboundary,0,6.891,6.958,447.2,9497477,7692,2692,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,coboundary,1,7.505,7.584,447.1,9497477,7692,2692,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,coboundary,2,7.884,7.963,447.2,9497477,7692,2692,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,boundary,0,1.046,1.113,220.7,9497477,7692,0,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,boundary,1,1.113,1.185,221.1,9497477,7692,0,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,boundary,2,1.121,1.194,220.7,9497477,7692,0,0,a167add615ba,
+uniform,dense,5000,3,1,dense,3799.0,auto,0,1.039,1.113,220.7,9497477,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,5000,3,1,dense,3799.0,auto,1,1.108,1.184,220.8,9497477,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,5000,3,1,dense,3799.0,auto,2,1.119,1.193,220.6,9497477,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,10000,3,1,dense,7587.1,coboundary,0,40.893,40.994,2126.9,37935648,15538,5538,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,coboundary,1,39.367,39.446,2126.9,37935648,15538,5538,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,coboundary,2,41.094,41.171,2126.8,37935648,15538,5538,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,boundary,0,5.46,5.535,843.0,37935648,15538,0,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,boundary,1,5.266,5.334,842.9,37935648,15538,0,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,boundary,2,5.331,5.403,843.2,37935648,15538,0,0,70e08ded9605,
+uniform,dense,10000,3,1,dense,7587.1,auto,0,5.575,5.651,843.0,37935648,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,10000,3,1,dense,7587.1,auto,1,5.242,5.311,843.1,37935648,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,10000,3,1,dense,7587.1,auto,2,5.599,5.672,843.1,37935648,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+uniform,dense,2000,3,2,dense,1540.6,coboundary,0,65.661,65.726,118.6,1540647,3282,1015,681593045,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,coboundary,1,65.128,65.221,118.6,1540647,3282,1015,681593045,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,coboundary,2,70.805,70.915,118.6,1540647,3282,1015,681593045,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,boundary,0,100.23,100.333,511.5,1540647,3282,0,0,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,boundary,1,98.036,98.13,511.4,1540647,3282,0,0,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,boundary,2,102.438,102.533,511.4,1540647,3282,0,0,fd5bd9addee0,
+uniform,dense,2000,3,2,dense,1540.6,auto,0,72.279,72.359,118.6,1540647,3282,1015,681593045,fd5bd9addee0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,dense,2000,3,2,dense,1540.6,auto,1,72.094,72.17,118.5,1540647,3282,1015,681593045,fd5bd9addee0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,dense,2000,3,2,dense,1540.6,auto,2,69.2,69.269,118.6,1540647,3282,1015,681593045,fd5bd9addee0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,1,knn-k8,9.4,coboundary,0,0.032,0.121,6.9,23563,7636,2636,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,coboundary,1,0.029,0.116,6.8,23563,7636,2636,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,coboundary,2,0.029,0.118,6.7,23563,7636,2636,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,boundary,0,0.044,0.134,9.4,23563,7636,0,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,boundary,1,0.04,0.129,9.1,23563,7636,0,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,boundary,2,0.042,0.132,9.2,23563,7636,0,0,dc90a520a1a1,
+uniform,knn,5000,3,1,knn-k8,9.4,auto,0,0.029,0.119,6.7,23563,7636,2636,0,dc90a520a1a1,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,1,knn-k8,9.4,auto,1,0.029,0.123,6.7,23563,7636,2636,0,dc90a520a1a1,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,1,knn-k8,9.4,auto,2,0.029,0.119,6.7,23563,7636,2636,0,dc90a520a1a1,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,1,knn-k32,35.9,coboundary,0,0.205,0.294,14.6,89872,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,coboundary,1,0.202,0.299,14.8,89872,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,coboundary,2,0.202,0.292,14.5,89872,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,boundary,0,0.137,0.229,18.1,89872,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,boundary,1,0.134,0.228,17.9,89872,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,boundary,2,0.125,0.213,17.6,89872,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k32,35.9,auto,0,0.137,0.227,17.6,89872,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,1,knn-k32,35.9,auto,1,0.135,0.225,17.7,89872,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,1,knn-k32,35.9,auto,2,0.128,0.217,17.7,89872,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,1,knn-k128,144.1,coboundary,0,0.621,0.71,44.4,360301,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,coboundary,1,0.631,0.72,33.4,360301,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,coboundary,2,0.627,0.715,33.5,360301,7692,2692,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,boundary,0,0.35,0.439,39.2,360301,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,boundary,1,0.347,0.436,39.2,360301,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,boundary,2,0.332,0.422,47.9,360301,7692,0,0,a167add615ba,
+uniform,knn,5000,3,1,knn-k128,144.1,auto,0,0.34,0.429,50.5,360301,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,1,knn-k128,144.1,auto,1,0.336,0.426,50.6,360301,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,1,knn-k128,144.1,auto,2,0.321,0.408,50.9,360301,7692,0,0,a167add615ba,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,20000,3,1,knn-k8,9.4,coboundary,0,0.111,0.221,14.7,93580,30899,10899,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,coboundary,1,0.112,0.223,14.6,93580,30899,10899,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,coboundary,2,0.113,0.222,14.4,93580,30899,10899,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,boundary,0,0.173,0.283,24.1,93580,30899,0,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,boundary,1,0.178,0.292,24.2,93580,30899,0,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,boundary,2,0.183,0.293,24.4,93580,30899,0,0,43580aa78ab0,
+uniform,knn,20000,3,1,knn-k8,9.4,auto,0,0.111,0.22,14.7,93580,30899,10899,0,43580aa78ab0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,20000,3,1,knn-k8,9.4,auto,1,0.114,0.223,14.7,93580,30899,10899,0,43580aa78ab0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,20000,3,1,knn-k8,9.4,auto,2,0.116,0.226,14.6,93580,30899,10899,0,43580aa78ab0,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,20000,3,1,knn-k32,35.4,coboundary,0,1.287,1.399,44.9,354330,31197,11197,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,coboundary,1,1.221,1.329,44.3,354330,31197,11197,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,coboundary,2,1.189,1.294,41.1,354330,31197,11197,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,boundary,0,0.686,0.802,53.6,354330,31197,0,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,boundary,1,0.633,0.739,50.9,354330,31197,0,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,boundary,2,0.66,0.766,52.7,354330,31197,0,0,720f0a03305a,
+uniform,knn,20000,3,1,knn-k32,35.4,auto,0,0.67,0.78,50.6,354330,31197,0,0,720f0a03305a,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,20000,3,1,knn-k32,35.4,auto,1,0.643,0.749,53.0,354330,31197,0,0,720f0a03305a,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,20000,3,1,knn-k32,35.4,auto,2,0.64,0.749,52.2,354330,31197,0,0,720f0a03305a,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,50000,3,1,knn-k8,9.4,coboundary,0,0.275,0.43,30.1,233811,77674,27674,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,coboundary,1,0.266,0.415,30.0,233811,77674,27674,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,coboundary,2,0.268,0.42,29.8,233811,77674,27674,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,boundary,0,0.48,0.635,53.3,233811,77674,0,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,boundary,1,0.473,0.625,52.5,233811,77674,0,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,boundary,2,0.475,0.628,53.4,233811,77674,0,0,d8b791913081,
+uniform,knn,50000,3,1,knn-k8,9.4,auto,0,0.262,0.412,29.5,233811,77674,27674,0,d8b791913081,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,50000,3,1,knn-k8,9.4,auto,1,0.266,0.416,30.1,233811,77674,27674,0,d8b791913081,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,50000,3,1,knn-k8,9.4,auto,2,0.264,0.414,30.2,233811,77674,27674,0,d8b791913081,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,50000,3,1,knn-k32,35.2,coboundary,0,3.477,3.631,95.6,880077,78541,28541,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,coboundary,1,3.424,3.575,95.1,880077,78541,28541,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,coboundary,2,3.423,3.574,94.3,880077,78541,28541,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,boundary,0,1.827,1.979,119.9,880077,78541,0,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,boundary,1,1.816,1.97,123.0,880077,78541,0,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,boundary,2,1.817,1.97,126.5,880077,78541,0,0,a41521b2e56e,
+uniform,knn,50000,3,1,knn-k32,35.2,auto,0,1.814,1.966,125.1,880077,78541,0,0,a41521b2e56e,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,50000,3,1,knn-k32,35.2,auto,1,1.796,1.948,115.9,880077,78541,0,0,a41521b2e56e,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,50000,3,1,knn-k32,35.2,auto,2,1.814,1.965,125.0,880077,78541,0,0,a41521b2e56e,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,5000,3,2,knn-k8,9.4,coboundary,0,0.027,0.098,7.1,23563,7665,2636,28604,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,coboundary,1,0.027,0.096,7.1,23563,7665,2636,28604,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,coboundary,2,0.027,0.097,7.1,23563,7665,2636,28604,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,boundary,0,0.196,0.271,204.7,23563,7665,0,0,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,boundary,1,0.2,0.277,204.7,23563,7665,0,0,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,boundary,2,0.194,0.27,204.6,23563,7665,0,0,8480acacb743,
+uniform,knn,5000,3,2,knn-k8,9.4,auto,0,0.029,0.099,7.2,23563,7665,2636,28604,8480acacb743,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,2,knn-k8,9.4,auto,1,0.027,0.097,7.0,23563,7665,2636,28604,8480acacb743,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,2,knn-k8,9.4,auto,2,0.028,0.1,7.2,23563,7665,2636,28604,8480acacb743,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,2,knn-k32,35.9,coboundary,0,0.293,0.366,15.7,89872,8412,2692,510314,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,coboundary,1,0.289,0.361,15.7,89872,8412,2692,510314,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,coboundary,2,0.295,0.368,15.6,89872,8412,2692,510314,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,boundary,0,0.677,0.755,234.7,89872,8412,0,0,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,boundary,1,0.676,0.756,234.7,89872,8412,0,0,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,boundary,2,0.673,0.752,234.5,89872,8412,0,0,cd71cf2aedb4,
+uniform,knn,5000,3,2,knn-k32,35.9,auto,0,0.292,0.362,16.0,89872,8412,2692,510314,cd71cf2aedb4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,2,knn-k32,35.9,auto,1,0.291,0.363,15.7,89872,8412,2692,510314,cd71cf2aedb4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,5000,3,2,knn-k32,35.9,auto,2,0.295,0.366,15.8,89872,8412,2692,510314,cd71cf2aedb4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+torus,dense,2000,3,1,torus,1594.6,coboundary,0,9.035,9.121,985.7,1594622,2545,545,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,coboundary,1,9.045,9.132,985.7,1594622,2545,545,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,coboundary,2,9.12,9.21,985.7,1594622,2545,545,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,boundary,0,0.525,0.598,57.2,1594622,2545,0,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,boundary,1,0.522,0.597,56.9,1594622,2545,0,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,boundary,2,0.561,0.635,57.0,1594622,2545,0,0,4f47297890da,
+torus,dense,2000,3,1,torus,1594.6,auto,0,0.532,0.607,57.4,1594622,2545,0,0,4f47297890da,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+torus,dense,2000,3,1,torus,1594.6,auto,1,0.532,0.607,57.0,1594622,2545,0,0,4f47297890da,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+torus,dense,2000,3,1,torus,1594.6,auto,2,0.556,0.629,57.4,1594622,2545,0,0,4f47297890da,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+torus,dense,2000,3,2,torus,1594.6,coboundary,0,86.152,86.231,999.0,1594622,2853,545,745691308,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,coboundary,1,85.027,85.128,999.1,1594622,2853,545,745691308,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,coboundary,2,79.651,79.745,999.0,1594622,2853,545,745691308,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,boundary,0,107.244,107.328,516.3,1594622,2853,0,0,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,boundary,1,109.659,109.75,516.4,1594622,2853,0,0,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,boundary,2,108.141,108.23,516.3,1594622,2853,0,0,ed8e574c3769,
+torus,dense,2000,3,2,torus,1594.6,auto,0,82.064,82.142,999.1,1594622,2853,545,745691308,ed8e574c3769,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+torus,dense,2000,3,2,torus,1594.6,auto,1,81.491,81.567,999.0,1594622,2853,545,745691308,ed8e574c3769,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+torus,dense,2000,3,2,torus,1594.6,auto,2,49.825,49.883,999.0,1594622,2853,545,745691308,ed8e574c3769,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+gaussmix,dense,5000,3,1,gaussmix,4332.2,coboundary,0,3.637,3.703,274.4,10830596,7565,2565,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,coboundary,1,3.613,3.678,274.5,10830596,7565,2565,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,coboundary,2,3.625,3.689,274.5,10830596,7565,2565,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,boundary,0,1.124,1.196,233.8,10830596,7565,0,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,boundary,1,1.13,1.199,233.9,10830596,7565,0,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,boundary,2,1.146,1.216,233.9,10830596,7565,0,0,a5b8bb78d7fd,
+gaussmix,dense,5000,3,1,gaussmix,4332.2,auto,0,1.12,1.189,233.7,10830596,7565,0,0,a5b8bb78d7fd,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+gaussmix,dense,5000,3,1,gaussmix,4332.2,auto,1,1.123,1.194,233.7,10830596,7565,0,0,a5b8bb78d7fd,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+gaussmix,dense,5000,3,1,gaussmix,4332.2,auto,2,1.131,1.199,233.7,10830596,7565,0,0,a5b8bb78d7fd,auto: boundary (RedZeD) — measured fastest for H1 on dense full-Rips input
+gaussmix,dense,1500,3,2,gaussmix,1208.9,coboundary,0,21.232,21.287,37.1,906693,2324,701,321722730,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,coboundary,1,19.738,19.79,37.2,906693,2324,701,321722730,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,coboundary,2,20.346,20.397,37.1,906693,2324,701,321722730,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,boundary,0,34.928,34.994,272.1,906693,2324,0,0,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,boundary,1,34.903,34.969,272.1,906693,2324,0,0,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,boundary,2,31.179,31.245,272.1,906693,2324,0,0,5b072382f942,
+gaussmix,dense,1500,3,2,gaussmix,1208.9,auto,0,20.451,20.505,37.2,906693,2324,701,321722730,5b072382f942,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+gaussmix,dense,1500,3,2,gaussmix,1208.9,auto,1,19.683,19.739,37.1,906693,2324,701,321722730,5b072382f942,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+gaussmix,dense,1500,3,2,gaussmix,1208.9,auto,2,21.28,21.331,37.1,906693,2324,701,321722730,5b072382f942,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+sphere,dense,120,4,3,sphere-d4,112.6,coboundary,0,0.363,0.413,19.0,6754,211,68,236430,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,coboundary,1,0.365,0.415,18.9,6754,211,68,236430,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,coboundary,2,0.363,0.413,18.9,6754,211,68,236430,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,boundary,0,0.678,0.729,74.8,6754,211,0,0,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,boundary,1,0.662,0.712,74.5,6754,211,0,0,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,boundary,2,0.681,0.731,74.9,6754,211,0,0,e5cd268183b4,
+sphere,dense,120,4,3,sphere-d4,112.6,auto,0,0.361,0.411,18.9,6754,211,68,236430,e5cd268183b4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+sphere,dense,120,4,3,sphere-d4,112.6,auto,1,0.363,0.414,19.0,6754,211,68,236430,e5cd268183b4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+sphere,dense,120,4,3,sphere-d4,112.6,auto,2,0.368,0.418,18.9,6754,211,68,236430,e5cd268183b4,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,3000,3,3,knn-k8,9.4,coboundary,0,0.014,0.069,6.6,14143,4573,1549,17567,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,coboundary,1,0.015,0.068,6.6,14143,4573,1549,17567,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,coboundary,2,0.014,0.067,6.6,14143,4573,1549,17567,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,boundary,0,0.051,0.104,46.2,14143,4573,0,0,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,boundary,1,0.051,0.104,46.2,14143,4573,0,0,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,boundary,2,0.051,0.104,46.3,14143,4573,0,0,640dd4447b21,
+uniform,knn,3000,3,3,knn-k8,9.4,auto,0,0.014,0.068,6.6,14143,4573,1549,17567,640dd4447b21,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,3000,3,3,knn-k8,9.4,auto,1,0.015,0.067,6.6,14143,4573,1549,17567,640dd4447b21,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,knn,3000,3,3,knn-k8,9.4,auto,2,0.015,0.068,6.6,14143,4573,1549,17567,640dd4447b21,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,radius,10000,3,1,radius-deg~8,8.0,coboundary,0,0.021,0.083,7.8,40187,14396,4396,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,coboundary,1,0.022,0.087,7.9,40187,14396,4396,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,coboundary,2,0.021,0.083,7.8,40187,14396,4396,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,boundary,0,0.032,0.093,10.9,40187,14396,0,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,boundary,1,0.032,0.094,11.2,40187,14396,0,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,boundary,2,0.032,0.094,10.9,40187,14396,0,0,1cfadfe77542,
+uniform,radius,10000,3,1,radius-deg~8,8.0,auto,0,0.022,0.083,7.8,40187,14396,4396,0,1cfadfe77542,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,radius,10000,3,1,radius-deg~8,8.0,auto,1,0.021,0.083,7.8,40187,14396,4396,0,1cfadfe77542,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,radius,10000,3,1,radius-deg~8,8.0,auto,2,0.021,0.083,7.8,40187,14396,4396,0,1cfadfe77542,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 32 inputs
+uniform,radius,10000,3,1,radius-deg~128,127.2,coboundary,0,0.831,0.895,51.3,635931,15538,5538,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,coboundary,1,0.835,0.9,51.3,635931,15538,5538,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,coboundary,2,0.839,0.906,51.3,635931,15538,5538,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,boundary,0,0.341,0.405,51.2,635931,15538,0,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,boundary,1,0.343,0.407,51.1,635931,15538,0,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,boundary,2,0.34,0.403,51.1,635931,15538,0,0,70e08ded9605,
+uniform,radius,10000,3,1,radius-deg~128,127.2,auto,0,0.385,0.452,51.5,635931,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,radius,10000,3,1,radius-deg~128,127.2,auto,1,0.35,0.414,51.0,635931,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,radius,10000,3,1,radius-deg~128,127.2,auto,2,0.344,0.409,51.0,635931,15538,0,0,70e08ded9605,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 32
+uniform,knn,10000,3,1,fill-k12,13.8,coboundary,0,0.067,0.128,12.0,69052,15536,5536,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,coboundary,1,0.062,0.114,11.9,69052,15536,5536,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,coboundary,2,0.061,0.112,12.0,69052,15536,5536,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,boundary,0,0.074,0.131,16.8,69052,15536,0,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,boundary,1,0.07,0.125,16.6,69052,15536,0,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,boundary,2,0.079,0.138,16.7,69052,15536,0,0,baeee9a8f147,
+uniform,knn,10000,3,1,fill-k12,13.8,auto,0,0.064,0.118,12.1,69052,15536,5536,0,baeee9a8f147,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,10000,3,1,fill-k12,13.8,auto,1,0.061,0.116,12.0,69052,15536,5536,0,baeee9a8f147,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,10000,3,1,fill-k12,13.8,auto,2,0.068,0.126,11.9,69052,15536,5536,0,baeee9a8f147,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,10000,3,1,fill-k16,18.2,coboundary,0,0.15,0.204,13.4,90905,15544,5544,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,coboundary,1,0.153,0.21,13.2,90905,15544,5544,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,coboundary,2,0.151,0.21,13.3,90905,15544,5544,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,boundary,0,0.098,0.15,20.1,90905,15544,0,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,boundary,1,0.112,0.172,20.4,90905,15544,0,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,boundary,2,0.104,0.16,20.2,90905,15544,0,0,6351ab120178,
+uniform,knn,10000,3,1,fill-k16,18.2,auto,0,0.1,0.157,20.3,90905,15544,0,0,6351ab120178,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k16,18.2,auto,1,0.105,0.163,20.5,90905,15544,0,0,6351ab120178,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k16,18.2,auto,2,0.102,0.158,19.7,90905,15544,0,0,6351ab120178,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k22,24.8,coboundary,0,0.217,0.273,15.0,123790,15538,5538,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,coboundary,1,0.204,0.258,16.0,123790,15538,5538,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,coboundary,2,0.204,0.262,14.3,123790,15538,5538,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,boundary,0,0.137,0.194,22.0,123790,15538,0,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,boundary,1,0.122,0.176,21.8,123790,15538,0,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,boundary,2,0.131,0.186,22.5,123790,15538,0,0,f308c2788a87,
+uniform,knn,10000,3,1,fill-k22,24.8,auto,0,0.126,0.18,20.7,123790,15538,0,0,f308c2788a87,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k22,24.8,auto,1,0.14,0.201,20.7,123790,15538,0,0,f308c2788a87,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k22,24.8,auto,2,0.13,0.19,21.3,123790,15538,0,0,f308c2788a87,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k28,31.3,coboundary,0,0.25,0.305,19.4,156406,15539,5539,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,coboundary,1,0.242,0.296,17.7,156406,15539,5539,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,coboundary,2,0.24,0.299,17.6,156406,15539,5539,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,boundary,0,0.142,0.2,24.8,156406,15539,0,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,boundary,1,0.159,0.213,25.6,156406,15539,0,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,boundary,2,0.154,0.211,24.9,156406,15539,0,0,90d34effb101,
+uniform,knn,10000,3,1,fill-k28,31.3,auto,0,0.144,0.2,23.4,156406,15539,0,0,90d34effb101,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k28,31.3,auto,1,0.142,0.198,24.0,156406,15539,0,0,90d34effb101,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,10000,3,1,fill-k28,31.3,auto,2,0.147,0.203,24.2,156406,15539,0,0,90d34effb101,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k12,13.7,coboundary,0,0.216,0.302,26.2,205662,47030,17030,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,coboundary,1,0.205,0.285,25.9,205662,47030,17030,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,coboundary,2,0.209,0.289,26.2,205662,47030,17030,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,boundary,0,0.294,0.375,44.2,205662,47030,0,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,boundary,1,0.295,0.376,45.1,205662,47030,0,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,boundary,2,0.291,0.375,44.6,205662,47030,0,0,429d8198c959,
+uniform,knn,30000,3,1,fill-k12,13.7,auto,0,0.212,0.295,26.1,205662,47030,17030,0,429d8198c959,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,30000,3,1,fill-k12,13.7,auto,1,0.208,0.293,25.9,205662,47030,17030,0,429d8198c959,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,30000,3,1,fill-k12,13.7,auto,2,0.205,0.286,26.1,205662,47030,17030,0,429d8198c959,auto: coboundary (reducer) — default-on; boundary is picked only for H1 on dense / mean degree >= 16 inputs
+uniform,knn,30000,3,1,fill-k16,18.1,coboundary,0,0.527,0.608,35.2,270767,47077,17077,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,coboundary,1,0.55,0.631,34.6,270767,47077,17077,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,coboundary,2,0.558,0.64,34.6,270767,47077,17077,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,boundary,0,0.457,0.544,55.6,270767,47077,0,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,boundary,1,0.455,0.54,54.2,270767,47077,0,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,boundary,2,0.448,0.533,54.8,270767,47077,0,0,a3699525b538,
+uniform,knn,30000,3,1,fill-k16,18.1,auto,0,0.452,0.541,54.1,270767,47077,0,0,a3699525b538,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k16,18.1,auto,1,0.447,0.534,57.1,270767,47077,0,0,a3699525b538,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k16,18.1,auto,2,0.471,0.556,55.7,270767,47077,0,0,a3699525b538,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k22,24.5,coboundary,0,0.828,0.909,41.5,368074,47066,17066,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,coboundary,1,0.813,0.895,40.1,368074,47066,17066,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,coboundary,2,0.819,0.9,41.0,368074,47066,17066,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,boundary,0,0.577,0.664,60.7,368074,47066,0,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,boundary,1,0.607,0.693,58.5,368074,47066,0,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,boundary,2,0.616,0.701,62.3,368074,47066,0,0,45c47bb840bd,
+uniform,knn,30000,3,1,fill-k22,24.5,auto,0,0.611,0.695,59.8,368074,47066,0,0,45c47bb840bd,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k22,24.5,auto,1,0.601,0.689,57.5,368074,47066,0,0,45c47bb840bd,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k22,24.5,auto,2,0.59,0.68,62.8,368074,47066,0,0,45c47bb840bd,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k28,31.0,coboundary,0,0.996,1.08,41.2,465216,47065,17065,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,coboundary,1,0.985,1.065,42.9,465216,47065,17065,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,coboundary,2,0.972,1.055,42.5,465216,47065,17065,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,boundary,0,0.659,0.746,59.4,465216,47065,0,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,boundary,1,0.646,0.728,63.4,465216,47065,0,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,boundary,2,0.675,0.76,58.2,465216,47065,0,0,33969fc957c1,
+uniform,knn,30000,3,1,fill-k28,31.0,auto,0,0.653,0.741,60.5,465216,47065,0,0,33969fc957c1,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k28,31.0,auto,1,0.678,0.763,60.8,465216,47065,0,0,33969fc957c1,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16
+uniform,knn,30000,3,1,fill-k28,31.0,auto,2,0.666,0.751,58.5,465216,47065,0,0,33969fc957c1,auto: boundary (RedZeD) — measured fastest for H1 on graphs of mean degree >= 16

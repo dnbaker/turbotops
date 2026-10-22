@@ -1,0 +1,17 @@
+case,engine,seconds,prep_s,peak_rss_mb,bars,parity
+full uniform n=5000 H1 l2,turbotops t1,7.698,0.0,458.3,5000 2633,ok
+full uniform n=5000 H1 l2,redzed,1.843,0.0,317.5,5000 2633,ok
+full uniform n=10000 H1 l2,turbotops t1,36.215,0.0,1358.6,10000 5473,ok
+full uniform n=10000 H1 l2,redzed,8.611,0.0,1116.8,10000 5473,ok
+full torus n=1200 H2 l2,turbotops t1,45.707,0.0,392.5,1200 325 170,ok
+full torus n=1200 H2 l2,redzed,33.314,0.0,221.8,1200 325 170,ok
+full uniform n=5000 H1 l1,turbotops t1,10.832,0.0,513.5,5000 3692,ok
+full uniform n=5000 H1 l1,redzed,2.161,0.0,334.2,5000 3692,ok
+full uniform n=5000 H1 linf,turbotops t1,7.734,0.0,456.7,5000 4003,ok
+full uniform n=5000 H1 linf,redzed,1.251,0.0,274.4,5000 4003,ok
+full uniform n=5000 H1 lp:3,turbotops t1,7.962,0.0,457.2,5000 2820,ok
+full uniform n=5000 H1 lp:3,redzed,1.738,0.0,304.7,5000 2820,ok
+tau uniform n=10000 H1 l2 tau=0.164,turbotops t1,1.369,0.0,54.2,10000 5473,ok
+tau uniform n=10000 H1 l2 tau=0.164,redzed,1.298,0.0,695.5,10000 5473,ok
+tau uniform n=10000 H2 l2 tau=0.12,turbotops t1,3.429,0.0,29.6,10000 5473 1596,ok
+tau uniform n=10000 H2 l2 tau=0.12,redzed,3.365,0.0,731.5,10000 5473 1596,ok

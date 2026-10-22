@@ -1,0 +1,8 @@
+/turbotops
+/third_party/ripser/
+/third_party/nanobind/
+/build/
+__pycache__/
+*.so
+*.o
+.DS_Store
